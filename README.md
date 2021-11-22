@@ -1,7 +1,4 @@
-- 👋 Hi, Nama : Ahmad Junaidi 
-- 👀 I’m interested in kuding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on bjir
+- 👋 Hi
 
 <!---
 AhmadJunaidisk/AhmadJunaidisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
